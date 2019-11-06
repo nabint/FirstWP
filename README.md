@@ -33,6 +33,10 @@ Used WordPress 5.2.4-en_GB for developing the site on windows 10
 Minimal Grid
 
 ### Plugins Used
-**Gallery Custom Links** -- Gallery Custom Links allows you to link images from galleries to a specified URL. Tested with WordPress Gallery, Gutenberg, the Meow Gallery and others.
-**WP Featherlight** -- An ultra lightweight jQuery lightbox for WordPress images and galleries.
-**All-in-One WP Migration** *version 6.77* for import/export of site to local computer
++ **Gallery Custom Links** -- Gallery Custom Links allows you to link images from galleries to a specified URL. Tested with WordPress Gallery, Gutenberg, the Meow Gallery and others.
++ **WP Featherlight** -- An ultra lightweight jQuery lightbox for WordPress images and galleries.
++ **All-in-One WP Migration** *version 6.77* for import/export of site to local computer
+
+### Link to the Site
++ (https://moviefreak66.000webhostapp.com/)
+
