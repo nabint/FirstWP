@@ -5,13 +5,13 @@
 Used WordPress 5.2.4-en_GB for developing the site on windows 10
 
 ## ScreenShots
-![home](/Screenshot/wp1.jpg)
+![home](/Screenshot/wp1.png)
 
-![home2](/Screenshot/wp2.jpg)
+![home2](/Screenshot/wp2.png)
 
-![map](/Screenshot/wp3.jpg)
+![map](/Screenshot/wp3.png)
 
-![gallery](/Screenshot/wp4.jpg)
+![gallery](/Screenshot/wp4.png)
 
 
 
